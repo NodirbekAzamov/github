@@ -8,7 +8,7 @@ const App = () => {
         fontSize: 40,
     }
     return <>
-     <h1>uirevguevg</h1>
+     <h1>uirevumyumuymyuevg</h1>
     </>
 }
 ReactDOM.render(<App />, document.querySelector('#root'))
