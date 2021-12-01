@@ -1,0 +1,2 @@
+(this.webpackJsonpgithub=this.webpackJsonpgithub||[]).push([[0],{4:function(e,t,r){"use strict";r.r(t);r(1);var n=r(3),c=r.n(n),o=r(0),s=function(){return Object(o.jsx)(o.Fragment,{children:Object(o.jsx)("h1",{children:"helo word"})})};c.a.render(Object(o.jsx)(s,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.fb142003.chunk.js.map
